@@ -1,0 +1,425 @@
+{
+  "main": {
+    "id": "af13f19da9c3a238",
+    "type": "split",
+    "children": [
+      {
+        "id": "3acc907ab2465f60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b8cc4215b85474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/选择性必修1 · 稳态与调节/第5章 植物生命活动的调节/第5章 植物生命活动的调节.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第5章 植物生命活动的调节"
+            }
+          },
+          {
+            "id": "b9ccede8c4940104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "淀粉—平衡石假说.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "淀粉—平衡石假说"
+            }
+          },
+          {
+            "id": "d6f9c011dc340c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "根的向地性和茎的背地性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "根的向地性和茎的背地性"
+            }
+          },
+          {
+            "id": "0bfef2d0d2a3d4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/选择性必修1 · 稳态与调节/第5章 植物生命活动的调节/第5章 植物生命活动的调节.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第5章 植物生命活动的调节"
+            }
+          },
+          {
+            "id": "3bd9c4c6e9bc5955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/选择性必修1 · 稳态与调节/第4章 免疫调节/第4章 免疫调节.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第4章 免疫调节"
+            }
+          },
+          {
+            "id": "6395730956d11919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/选择性必修1 · 稳态与调节/第2章 神经调节/第2章 神经调节.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第2章 神经调节"
+            }
+          },
+          {
+            "id": "076db3167a31129d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c8f74b9f247eddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f8b66b658ccb756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f67f2b223153adf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3a5880abc147b113",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#细胞骨架",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "111b981cbfbd7806",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7eaa7d5fd5ed3fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2125f8f54feffae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d30fc80169fc57a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "ebab48e2379d217b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "9c941d745d1bb6c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e0c8e57f2f9a0455",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8b869169880ed56c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "floating": {
+    "id": "5c873a5f5273060d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bfd2a603f8d9d146",
+        "type": "window",
+        "children": [
+          {
+            "id": "5ace7c41d6672c01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d106e34c15a4e2f5",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "人教版高中生物学 全5册合编.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "人教版高中生物学 全5册合编"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 390,
+        "y": 32,
+        "width": 1105,
+        "height": 833,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "d7a14dedd089f0d7",
+        "type": "window",
+        "children": [
+          {
+            "id": "fccbfad259759ff9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "08cd70b2e4d330bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "笔记/辨析/辨析输入.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "辨析输入"
+                }
+              },
+              {
+                "id": "3dac7e6c06e2f6a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "干细胞.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "干细胞"
+                }
+              },
+              {
+                "id": "b687e728164ccb85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "免疫活性物质（溶菌酶，细胞因子，抗体）.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "免疫活性物质（溶菌酶，细胞因子，抗体）"
+                }
+              },
+              {
+                "id": "54315811bbb4b94f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "信息分子.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "信息分子"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2544,
+        "y": 0,
+        "width": 870,
+        "height": 912,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "076db3167a31129d",
+  "lastOpenFiles": [
+    "人教版高中生物学 全5册合编.pdf",
+    "淀粉—平衡石假说.md",
+    "笔记/辨析/辨析输入.md",
+    "干细胞.md",
+    "笔记/必修第一册 · 分子与细胞/第3章 细胞的基本结构/第3章 细胞的基本结构.md",
+    "根的向地性和茎的背地性.md",
+    "笔记/选择性必修1 · 稳态与调节/第5章 植物生命活动的调节/第5章 植物生命活动的调节.md",
+    "Pasted image 20260612232529.png",
+    "Pasted image 20260612231515.png",
+    "长日照植物和短日照植物.md",
+    "信息分子.md",
+    "Pasted image 20260612225158.png",
+    "Pasted image 20260612225139.png",
+    "Pasted image 20260612224703.png",
+    "Pasted image 20260612224332.png",
+    "Pasted image 20260612224005.png",
+    "激素间的协同与拮抗作用总结.md",
+    "Pasted image 20260612222611.png",
+    "笔记/选择性必修3 · 生物技术与工程/第2章 细胞工程/第2章 细胞工程.md",
+    "笔记/选择性必修1 · 稳态与调节/第2章 神经调节/第2章 神经调节.md",
+    "Pasted image 20260612215018.png",
+    "Pasted image 20260612214949.png",
+    "笔记/选择性必修1 · 稳态与调节/第4章 免疫调节/第4章 免疫调节.md",
+    "免疫活性物质（溶菌酶，细胞因子，抗体）.md",
+    "磷脂.md",
+    "笔记/必修第二册 · 遗传与进化/第5章 基因突变及其他变异/第5章 基因突变及其他变异.md",
+    "能源-储能物质.md",
+    "细胞中的糖类.md",
+    "笔记/必修第一册 · 分子与细胞/第1章 走近细胞/第1章 走近细胞.md",
+    "笔记/必修第一册 · 分子与细胞/第2章 组成细胞的分子/第2章 组成细胞的分子.md",
+    "普通高中教科书 生物学 选择性必修2 生物与环境.pdf",
+    "普通高中教科书 生物学 必修1 分子与细胞.pdf",
+    "核仁.md",
+    "未命名.canvas",
+    "自由水和结合水.md",
+    "细胞中的脂质.md",
+    "普通高中教科书 生物学 选择性必修1 稳态与调节.pdf",
+    "固醇.md",
+    "脂肪.md",
+    "蛋白质的基本组成单位——氨基酸.md",
+    "能源",
+    "普通高中教科书 生物学 必修2 遗传与进化.pdf",
+    "笔记/辨析",
+    "普通高中教科书 生物学 选择性必修3 生物技术与工程.pdf",
+    "普通高中教科书 生物学 选择性必修3 生物技术与工程.pdf.crdownload",
+    "普通高中教科书 生物学 选择性必修2 生物与环境.pdf.crdownload"
+  ]
+}
