@@ -27,82 +27,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "免疫活性物质（溶菌酶，细胞因子，抗体）.md",
+                "file": "笔记/必修第一册 · 分子与细胞/第2章 组成细胞的分子/第2章 组成细胞的分子.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "免疫活性物质（溶菌酶，细胞因子，抗体）"
+              "title": "第2章 组成细胞的分子"
             }
           },
           {
-            "id": "ab664e047f68ef03",
+            "id": "f74ec92cdb8fed3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEG 融合法.md",
+                "file": "血红蛋白.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PEG 融合法"
+              "title": "血红蛋白"
             }
           },
           {
-            "id": "01c35364851a7739",
+            "id": "83788e1f6d9a6cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电融合法.md",
+                "file": "笔记/选择性必修1 · 稳态与调节/第2章 神经调节/第2章 神经调节.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电融合法"
+              "title": "第2章 神经调节"
             }
           },
           {
-            "id": "79e7b84a9b6b2e2f",
+            "id": "26f8605793f8b40f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEG 融合法.md",
+                "file": "什么是中央后回？-中央前回与中央后回的比较.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PEG 融合法"
+              "title": "什么是中央后回？-中央前回与中央后回的比较"
             }
           },
           {
-            "id": "3bd9c4c6e9bc5955",
+            "id": "84fb2fb80e28dfd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/选择性必修3 · 生物技术与工程/第2章 细胞工程/第2章 细胞工程.md",
+                "file": "如何分辨缩手反射与膝跳反射？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第2章 细胞工程"
+              "title": "如何分辨缩手反射与膝跳反射？"
             }
           },
           {
-            "id": "076db3167a31129d",
+            "id": "79e8b3e3fe7d6bfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/选择性必修3 · 生物技术与工程/第3章 基因工程/第3章 基因工程.md",
+                "file": "如何判断传入神经与传出神经？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第3章 基因工程"
+              "title": "如何判断传入神经与传出神经？"
+            }
+          },
+          {
+            "id": "c2d1473d182d22e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "交感神经与副交感神经.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "交感神经与副交感神经"
+            }
+          },
+          {
+            "id": "b7b2c313dcdc918f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "2d07e1d7a9dbd00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中枢总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中枢总结"
             }
           },
           {
@@ -111,54 +153,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "探究·实践/DNA的粗提取与鉴定.md",
+                "file": "笔记/选择性必修2 · 生物与环境/第1章 种群及其动态/第1章 种群及其动态.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA的粗提取与鉴定"
+              "title": "第1章 种群及其动态"
             }
           },
           {
-            "id": "f4c2cf6e5d025bfa",
+            "id": "44b941f55f659b27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "特殊的细胞(高等植物成熟的筛管细胞-哺乳动物成熟的红细胞-植物根尖细胞等).md",
+                "file": "笔记/必修第一册 · 分子与细胞/第4章 细胞的物质输入和输出/第4章 细胞的物质输入和输出.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "特殊的细胞(高等植物成熟的筛管细胞-哺乳动物成熟的红细胞-植物根尖细胞等)"
+              "title": "第4章 细胞的物质输入和输出"
             }
           },
           {
-            "id": "f20ff7168f6211ef",
+            "id": "98f8782c3d7f372f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "植物根尖细胞.md",
+                "file": "笔记/选择性必修2 · 生物与环境/第3章 生态系统及其稳定性/第3章 生态系统及其稳定性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "植物根尖细胞"
+              "title": "第3章 生态系统及其稳定性"
             }
           },
           {
-            "id": "fb6af75b8c1e4947",
+            "id": "7ead86b94f0421e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "导管和筛管.md",
+                "file": "笔记/选择性必修1 · 稳态与调节/第1章 人体的内环境与稳态/第1章 人体的内环境与稳态.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "导管和筛管"
+              "title": "第1章 人体的内环境与稳态"
+            }
+          },
+          {
+            "id": "4ba535a4565a7103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "探究·实践/土壤中分解尿素的细菌的分离与计数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "土壤中分解尿素的细菌的分离与计数"
             }
           },
           {
@@ -190,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +278,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "基因工程",
+                "query": "tag:#神经系统的基本结构",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,7 +299,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -378,9 +435,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 861,
+        "x": 767,
         "y": 0,
-        "width": 709,
+        "width": 1023,
         "height": 912,
         "maximize": false,
         "zoom": 0
@@ -405,6 +462,62 @@
                   },
                   "icon": "lucide-file",
                   "title": "辨析输入"
+                }
+              },
+              {
+                "id": "0a3ada1b6fbcbdbf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "交感神经与副交感神经.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "交感神经与副交感神经"
+                }
+              },
+              {
+                "id": "c255a9cdca88f81e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "摇床的作用.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "摇床的作用"
+                }
+              },
+              {
+                "id": "46631f52c059c320",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "碳中和与碳达峰.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "碳中和与碳达峰"
+                }
+              },
+              {
+                "id": "a2f17d04e7e46c56",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "探究·实践/培养液中酵母菌种群数量的变化（血细胞计数板、酵母菌的计数）.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "培养液中酵母菌种群数量的变化（血细胞计数板、酵母菌的计数）"
                 }
               },
               {
@@ -481,57 +594,56 @@
           }
         ],
         "direction": "vertical",
-        "x": 2789,
+        "x": 2788,
         "y": 0,
-        "width": 625,
+        "width": 630,
         "height": 912,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "acca85ca42fba820",
+  "active": "83788e1f6d9a6cb3",
   "lastOpenFiles": [
     "笔记/辨析/辨析输入.md",
-    "探究·实践/DNA的粗提取与鉴定.md",
-    "技术.md",
-    "特殊的细胞(高等植物成熟的筛管细胞-哺乳动物成熟的红细胞-植物根尖细胞等).md",
+    "笔记/选择性必修1 · 稳态与调节/第2章 神经调节/第2章 神经调节.md",
+    "人教版高中生物学 全5册合编.pdf",
+    "Pasted image 20260616194129.png",
+    "中枢总结.md",
+    "血红蛋白.md",
+    "什么是中央后回？-中央前回与中央后回的比较.md",
+    "如何分辨缩手反射与膝跳反射？.md",
+    "Pasted image 20260616192318.png",
+    "Pasted image 20260616192017.png",
+    "Pasted image 20260616191658.png",
+    "Pasted image 20260616191517.png",
+    "Pasted image 20260616191508.png",
+    "如何判断传入神经与传出神经？.md",
+    "笔记/必修第一册 · 分子与细胞/第2章 组成细胞的分子/第2章 组成细胞的分子.md",
+    "笔记/选择性必修2 · 生物与环境/第2章 群落及其演替/第2章 群落及其演替.md",
+    "交感神经与副交感神经.md",
+    "未命名.md",
+    "Pasted image 20260616173533.png",
+    "笔记/选择性必修1 · 稳态与调节/第1章 人体的内环境与稳态/第1章 人体的内环境与稳态.md",
+    "摇床的作用.md",
+    "如何精准判断生命系统的“稳态水平”？.md",
+    "血细胞.md",
+    "笔记/选择性必修2 · 生物与环境/第1章 种群及其动态/第1章 种群及其动态.md",
+    "免疫活性物质（溶菌酶，细胞因子，抗体）.md",
+    "笔记/必修第一册 · 分子与细胞/第1章 走近细胞/第1章 走近细胞.md",
+    "探究·实践/土壤中分解尿素的细菌的分离与计数.md",
+    "笔记/必修第一册 · 分子与细胞/第5章 细胞的能量供应和利用/第5章 细胞的能量供应和利用.md",
     "植物根尖细胞.md",
-    "导管和筛管.md",
-    "DNA 的粗提取与鉴定实验相关试剂的配制方法.md",
+    "特殊的细胞(高等植物成熟的筛管细胞-哺乳动物成熟的红细胞-植物根尖细胞等).md",
     "笔记/选择性必修3 · 生物技术与工程/第3章 基因工程/第3章 基因工程.md",
     "笔记/选择性必修3 · 生物技术与工程/第2章 细胞工程/第2章 细胞工程.md",
     "PEG 融合法.md",
-    "电融合法.md",
-    "笔记/选择性必修2 · 生物与环境/第2章 群落及其演替/第2章 群落及其演替.md",
-    "免疫活性物质（溶菌酶，细胞因子，抗体）.md",
-    "人教版高中生物学 全5册合编.pdf",
-    "探究·实践/菊花的组织培养（植物组织培养实验）.md",
-    "探究·实践/探究·实践模板.md",
-    "笔记/选择性必修1 · 稳态与调节/第1章 人体的内环境与稳态/第1章 人体的内环境与稳态.md",
-    "细胞外钠钾离子浓度改变对于静息电位和动作电位的影响总结.md",
-    "笔记/选择性必修1 · 稳态与调节/第2章 神经调节/第2章 神经调节.md",
-    "笔记/选择性必修3 · 生物技术与工程/第1章 发酵工程/第1章 发酵工程.md",
-    "Pasted image 20260615183437.png",
-    "笔记/选择性必修1 · 稳态与调节/第4章 免疫调节/第4章 免疫调节.md",
-    "高渗脱水和低渗脱水.md",
-    "K 值与 2分之K 值的实践应用.md",
-    "MS培养基.md",
-    "灭活病毒诱导法.md",
-    "性别鉴定、遗传病筛查(滋养层).md",
-    "笔记/选择性必修1 · 稳态与调节/第5章 植物生命活动的调节/第5章 植物生命活动的调节.md",
-    "Pasted image 20260615173841.png",
+    "Pasted image 20260616165617.png",
+    "Pasted image 20260616152239.png",
+    "Pasted image 20260616142328.png",
     "探究·实践",
     "K 值与 k",
-    "Pasted image 20260615123744.png",
-    "Pasted image 20260615110548.png",
-    "Pasted image 20260614100117.png",
-    "Pasted image 20260614095705.png",
-    "Pasted image 20260614092526.png",
-    "Pasted image 20260613161322.png",
     "未命名.canvas",
-    "Pasted image 20260613151635.png",
-    "Pasted image 20260613151611.png",
     "普通高中教科书 生物学 选择性必修2 生物与环境.pdf",
     "普通高中教科书 生物学 必修1 分子与细胞.pdf",
     "普通高中教科书 生物学 选择性必修1 稳态与调节.pdf",
