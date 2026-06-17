@@ -13,12 +13,64 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/选择性必修2 · 生物与环境/第2章 群落及其演替/第2章 群落及其演替.md",
+                "file": "笔记/选择性必修1 · 稳态与调节/第3章 体液调节/第3章 体液调节.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "第3章 体液调节"
+            }
+          },
+          {
+            "id": "793019fdacb639fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "体温调定点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第2章 群落及其演替"
+              "title": "体温调定点"
+            }
+          },
+          {
+            "id": "9004e5b69d57a6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "什么是中央后回？-中央前回与中央后回的比较.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "什么是中央后回？-中央前回与中央后回的比较"
+            }
+          },
+          {
+            "id": "aa63f93bd9b1fad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中枢总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中枢总结"
             }
           },
           {
@@ -47,20 +99,6 @@
               },
               "icon": "lucide-file",
               "title": "血红蛋白"
-            }
-          },
-          {
-            "id": "83788e1f6d9a6cb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/选择性必修1 · 稳态与调节/第2章 神经调节/第2章 神经调节.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第2章 神经调节"
             }
           },
           {
@@ -246,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,7 +316,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#神经系统的基本结构",
+                "query": "tag:#神经",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -435,9 +473,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 767,
+        "x": 773,
         "y": 0,
-        "width": 1023,
+        "width": 741,
         "height": 912,
         "maximize": false,
         "zoom": 0
@@ -462,6 +500,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "辨析输入"
+                }
+              },
+              {
+                "id": "500124657a304680",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "交感神经与副交感神经.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "交感神经与副交感神经"
                 }
               },
               {
@@ -493,34 +545,6 @@
                 }
               },
               {
-                "id": "46631f52c059c320",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "碳中和与碳达峰.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "碳中和与碳达峰"
-                }
-              },
-              {
-                "id": "a2f17d04e7e46c56",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "探究·实践/培养液中酵母菌种群数量的变化（血细胞计数板、酵母菌的计数）.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "培养液中酵母菌种群数量的变化（血细胞计数板、酵母菌的计数）"
-                }
-              },
-              {
                 "id": "271cb8c89a089126",
                 "type": "leaf",
                 "state": {
@@ -547,100 +571,59 @@
                   "icon": "lucide-file",
                   "title": "细胞外钠钾离子浓度改变对于静息电位和动作电位的影响总结"
                 }
-              },
-              {
-                "id": "733f90c907795d11",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "蛋白质的基本组成单位——氨基酸.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "蛋白质的基本组成单位——氨基酸"
-                }
-              },
-              {
-                "id": "3dac7e6c06e2f6a9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "干细胞.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "干细胞"
-                }
-              },
-              {
-                "id": "b687e728164ccb85",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "免疫活性物质（溶菌酶，细胞因子，抗体）.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "免疫活性物质（溶菌酶，细胞因子，抗体）"
-                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 2788,
+        "x": 2808,
         "y": 0,
-        "width": 630,
+        "width": 606,
         "height": 912,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "83788e1f6d9a6cb3",
+  "active": "d106e34c15a4e2f5",
   "lastOpenFiles": [
     "笔记/辨析/辨析输入.md",
-    "笔记/选择性必修1 · 稳态与调节/第2章 神经调节/第2章 神经调节.md",
+    "体温调定点.md",
+    "笔记/选择性必修1 · 稳态与调节/第3章 体液调节/第3章 体液调节.md",
     "人教版高中生物学 全5册合编.pdf",
-    "Pasted image 20260616194129.png",
-    "中枢总结.md",
-    "血红蛋白.md",
     "什么是中央后回？-中央前回与中央后回的比较.md",
-    "如何分辨缩手反射与膝跳反射？.md",
-    "Pasted image 20260616192318.png",
-    "Pasted image 20260616192017.png",
-    "Pasted image 20260616191658.png",
-    "Pasted image 20260616191517.png",
-    "Pasted image 20260616191508.png",
-    "如何判断传入神经与传出神经？.md",
+    "未命名 1.md",
+    "笔记/选择性必修1 · 稳态与调节/第2章 神经调节/第2章 神经调节.md",
+    "中枢总结.md",
     "笔记/必修第一册 · 分子与细胞/第2章 组成细胞的分子/第2章 组成细胞的分子.md",
-    "笔记/选择性必修2 · 生物与环境/第2章 群落及其演替/第2章 群落及其演替.md",
     "交感神经与副交感神经.md",
+    "血红蛋白.md",
+    "Pasted image 20260617234425.png",
+    "Pasted image 20260617234422.png",
+    "Pasted image 20260617234414.png",
+    "Pasted image 20260617234407.png",
+    "Pasted image 20260617234359.png",
+    "Pasted image 20260617234346.png",
+    "Pasted image 20260617234326.png",
+    "Pasted image 20260617234315.png",
+    "Pasted image 20260617233640.png",
+    "笔记/选择性必修2 · 生物与环境/第3章 生态系统及其稳定性/第3章 生态系统及其稳定性.md",
+    "笔记/选择性必修2 · 生物与环境/第2章 群落及其演替/第2章 群落及其演替.md",
+    "探究·实践/土壤中分解尿素的细菌的分离与计数.md",
+    "笔记/必修第一册 · 分子与细胞/第1章 走近细胞/第1章 走近细胞.md",
+    "DNA 的粗提取与鉴定实验相关试剂的配制方法.md",
+    "高中生物学笔记.md",
+    "Pasted image 20260616194129.png",
+    "如何分辨缩手反射与膝跳反射？.md",
+    "如何判断传入神经与传出神经？.md",
     "未命名.md",
-    "Pasted image 20260616173533.png",
     "笔记/选择性必修1 · 稳态与调节/第1章 人体的内环境与稳态/第1章 人体的内环境与稳态.md",
     "摇床的作用.md",
     "如何精准判断生命系统的“稳态水平”？.md",
     "血细胞.md",
     "笔记/选择性必修2 · 生物与环境/第1章 种群及其动态/第1章 种群及其动态.md",
     "免疫活性物质（溶菌酶，细胞因子，抗体）.md",
-    "笔记/必修第一册 · 分子与细胞/第1章 走近细胞/第1章 走近细胞.md",
-    "探究·实践/土壤中分解尿素的细菌的分离与计数.md",
     "笔记/必修第一册 · 分子与细胞/第5章 细胞的能量供应和利用/第5章 细胞的能量供应和利用.md",
-    "植物根尖细胞.md",
-    "特殊的细胞(高等植物成熟的筛管细胞-哺乳动物成熟的红细胞-植物根尖细胞等).md",
-    "笔记/选择性必修3 · 生物技术与工程/第3章 基因工程/第3章 基因工程.md",
-    "笔记/选择性必修3 · 生物技术与工程/第2章 细胞工程/第2章 细胞工程.md",
-    "PEG 融合法.md",
-    "Pasted image 20260616165617.png",
-    "Pasted image 20260616152239.png",
-    "Pasted image 20260616142328.png",
     "探究·实践",
     "K 值与 k",
     "未命名.canvas",
