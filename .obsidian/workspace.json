@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/必修第二册 · 遗传与进化/第2章 基因和染色体的关系/第2章 基因和染色体的关系.md",
+                "file": "笔记/必修第二册 · 遗传与进化/第1章 遗传因子的发现/第1章 遗传因子的发现.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第2章 基因和染色体的关系"
+              "title": "第1章 遗传因子的发现"
             }
           },
           {
@@ -50,199 +50,13 @@
             }
           },
           {
-            "id": "cd87ae8ee33b1b53",
+            "id": "598fa9be9b3ff9af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "探究·实践/低温诱导植物细胞染色体数目的变化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "低温诱导植物细胞染色体数目的变化"
-            }
-          },
-          {
-            "id": "444cd61eca4e1c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/必修第一册 · 分子与细胞/第3章 细胞的基本结构/第3章 细胞的基本结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第3章 细胞的基本结构"
-            }
-          },
-          {
-            "id": "249d1eaa311564c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "细胞骨架的三大成分（微管、微丝和中间纤维）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "细胞骨架的三大成分（微管、微丝和中间纤维）"
-            }
-          },
-          {
-            "id": "9e0f4c15f5b0756b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "蝗虫的减数分裂以及染色体数目具有特殊性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "蝗虫的减数分裂以及染色体数目具有特殊性"
-            }
-          },
-          {
-            "id": "b8794d98a33a173d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/必修第一册 · 分子与细胞/第3章 细胞的基本结构/第3章 细胞的基本结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第3章 细胞的基本结构"
-            }
-          },
-          {
-            "id": "a739af4282ed7e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/必修第二册 · 遗传与进化/第1章 遗传因子的发现/第1章 遗传因子的发现.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第1章 遗传因子的发现"
-            }
-          },
-          {
-            "id": "33fb07cc17a11874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "蝗虫的减数分裂以及染色体数目具有特殊性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "蝗虫的减数分裂以及染色体数目具有特殊性"
-            }
-          },
-          {
-            "id": "1d6f7dd89fb265d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基因重组.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基因重组"
-            }
-          },
-          {
-            "id": "9c570250b300f255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "如何区别有性和无性生殖？.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "如何区别有性和无性生殖？"
-            }
-          },
-          {
-            "id": "b7cd59fef585cc09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "出芽生殖.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "出芽生殖"
-            }
-          },
-          {
-            "id": "b26353f1cac4610d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/必修第一册 · 分子与细胞/第3章 细胞的基本结构/第3章 细胞的基本结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第3章 细胞的基本结构"
-            }
-          },
-          {
-            "id": "ae747a4ec5db89f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "有丝分裂过程中，各时期核DNA数、染色体数、染色单体数以及每条染色体上的DNA含量的变化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "有丝分裂过程中，各时期核DNA数、染色体数、染色单体数以及每条染色体上的DNA含量的变化"
-            }
-          },
-          {
-            "id": "d321fc7d8ec85b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "进行有丝分裂动植物细胞的细胞周期主要区别.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "进行有丝分裂动植物细胞的细胞周期主要区别"
-            }
-          },
-          {
-            "id": "69faafc1cf59e610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "核仁.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "核仁"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -251,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "密度制约因素与非密度制约因素的辨析.md",
+                "file": "探究·实践/用高倍显微镜观察叶绿体和细胞质的流动（胞质环流）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "密度制约因素与非密度制约因素的辨析"
+              "title": "用高倍显微镜观察叶绿体和细胞质的流动（胞质环流）"
             }
           },
           {
@@ -316,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -336,7 +150,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -348,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "微管",
+                "query": "用高倍显微镜观察叶绿体和细胞质的流动",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -374,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "right": {
     "id": "5a932719a9aeff79",
@@ -390,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "人教版高中生物学 全5册合编.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -450,20 +267,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "笔记/必修第二册 · 遗传与进化/第1章 遗传因子的发现/第1章 遗传因子的发现.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "第1章 遗传因子的发现 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 248.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -534,9 +351,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 2560,
+        "x": 2948,
         "y": 0,
-        "width": 854,
+        "width": 466,
         "height": 912,
         "maximize": false,
         "zoom": 0
@@ -565,44 +382,44 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 914,
         "y": 0,
-        "width": 854,
+        "width": 830,
         "height": 912,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "cd87ae8ee33b1b53",
+  "active": "ca7fd230758b5bbe",
   "lastOpenFiles": [
-    "笔记/必修第二册 · 遗传与进化/第5章 基因突变及其他变异/第5章 基因突变及其他变异.md",
-    "笔记/必修第一册 · 分子与细胞/第3章 细胞的基本结构/第3章 细胞的基本结构.md",
-    "细胞骨架的三大成分（微管、微丝和中间纤维）.md",
-    "笔记/辨析/辨析输入.md",
-    "探究·实践/低温诱导植物细胞染色体数目的变化.md",
-    "人教版高中生物学 全5册合编.pdf",
-    "探究·实践/观察根尖分生区组织细胞的有丝分裂.md",
-    "探究·实践/培养液中酵母菌种群数量的变化（血细胞计数板、酵母菌的计数）.md",
-    "探究·实践/探究·实践模板.md",
-    "特殊的细胞(高等植物成熟的筛管细胞-哺乳动物成熟的红细胞-植物根尖细胞等).md",
-    "探究·实践/观察蝗虫精母细胞减数分裂装片.md",
-    "探究·实践/菊花的组织培养（植物组织培养实验）.md",
-    "探究·实践/探究植物细胞的吸水和失水(质壁分离).md",
-    "蝗虫的减数分裂以及染色体数目具有特殊性.md",
-    "笔记/必修第二册 · 遗传与进化/第2章 基因和染色体的关系/第2章 基因和染色体的关系.md",
-    "探究·实践/DNA的粗提取与鉴定.md",
-    "探究·实践/研究土壤中小动物类群的丰富度.md",
     "探究·实践/用高倍显微镜观察叶绿体和细胞质的流动（胞质环流）.md",
-    "高中生物学笔记.md",
-    "基因重组.md",
-    "出芽生殖.md",
-    "细胞大小与物质交换效率.md",
-    "如何区别有性和无性生殖？.md",
+    "笔记/必修第一册 · 分子与细胞/第3章 细胞的基本结构/第3章 细胞的基本结构.md",
+    "笔记/辨析/辨析输入.md",
+    "探究·实践/观察根尖分生区组织细胞的有丝分裂.md",
+    "人教版高中生物学 全5册合编.pdf",
+    "笔记/必修第一册 · 分子与细胞/第6章 细胞的生命历程/第6章 细胞的生命历程.md",
+    "笔记/必修第二册 · 遗传与进化/第5章 基因突变及其他变异/第5章 基因突变及其他变异.md",
+    "探究·实践/低温诱导植物细胞染色体数目的变化.md",
+    "笔记/必修第一册 · 分子与细胞/第5章 细胞的能量供应和利用/第5章 细胞的能量供应和利用.md",
+    "笔记/必修第一册 · 分子与细胞/第4章 细胞的物质输入和输出/第4章 细胞的物质输入和输出.md",
+    "笔记/选择性必修1 · 稳态与调节/第3章 体液调节/第3章 体液调节.md",
+    "信息分子.md",
+    "笔记/选择性必修1 · 稳态与调节/第4章 免疫调节/第4章 免疫调节.md",
+    "淀粉—平衡石假说.md",
+    "笔记/必修第二册 · 遗传与进化/第2章 基因和染色体的关系/第2章 基因和染色体的关系.md",
     "笔记/必修第二册 · 遗传与进化/第1章 遗传因子的发现/第1章 遗传因子的发现.md",
-    "笔记/必修第二册 · 遗传与进化/必修第二册 · 遗传与进化.md",
-    "从有丝分裂到减数分裂，再到受精作用，细胞各遗传物质数据变化总结.md",
-    "探究 · 实践/观察蝗虫精母细胞减数分裂装片.md",
+    "探究·实践/菊花的组织培养（植物组织培养实验）.md",
+    "性染色体.md",
+    "笔记/必修第二册 · 遗传与进化/第3章 基因的本质/第3章 基因的本质.md",
+    "密度制约因素与非密度制约因素的辨析.md",
+    "进行有丝分裂动植物细胞的细胞周期主要区别.md",
+    "有丝分裂过程中，各时期核DNA数、染色体数、染色单体数以及每条染色体上的DNA含量的变化.md",
+    "蝗虫的减数分裂以及染色体数目具有特殊性.md",
+    "细胞骨架的三大成分（微管、微丝和中间纤维）.md",
+    "蛋白质的基本组成单位——氨基酸.md",
+    "出芽生殖.md",
+    "如何区别有性和无性生殖？.md",
     "探究 · 实践",
     "Pasted image 20260703154238.jpg",
     "Pasted image 20260620171502.png",
