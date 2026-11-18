@@ -1,150 +1,125 @@
 {
   "main": {
-    "id": "5cd8ba166b7d126d",
+    "id": "14d0bd02447be53a",
     "type": "split",
     "children": [
       {
-        "id": "7b6351fe97205a30",
+        "id": "1eb2c071e30335b9",
         "type": "tabs",
         "children": [
           {
-            "id": "319858d48bd8caa2",
+            "id": "99185cb1b3b9c3fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/必修第二册 · 遗传与进化/第1章 遗传因子的发现/第1章 遗传因子的发现.md",
+                "file": "笔记/选择性必修1 · 稳态与调节/第4章 免疫调节/第4章 免疫调节.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第1章 遗传因子的发现"
+              "title": "第4章 免疫调节"
             }
           },
           {
-            "id": "231a6f9de38a1c10",
+            "id": "60f2ba4790e5a261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/必修第二册 · 遗传与进化/第2章 基因和染色体的关系/第2章 基因和染色体的关系.md",
+                "file": "凋亡小体.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第2章 基因和染色体的关系"
+              "title": "凋亡小体"
             }
           },
           {
-            "id": "9648cb79f70c983e",
+            "id": "cd7563e83c71e992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/必修第二册 · 遗传与进化/第5章 基因突变及其他变异/第5章 基因突变及其他变异.md",
+                "file": "核仁.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第5章 基因突变及其他变异"
+              "title": "核仁"
             }
           },
           {
-            "id": "598fa9be9b3ff9af",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "172f02638a73ef27",
+            "id": "bdbc7d25f91a0001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "探究·实践/用高倍显微镜观察叶绿体和细胞质的流动（胞质环流）.md",
+                "file": "探究·实践/低温诱导植物细胞染色体数目的变化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "用高倍显微镜观察叶绿体和细胞质的流动（胞质环流）"
+              "title": "低温诱导植物细胞染色体数目的变化"
             }
           },
           {
-            "id": "047836f0e35521cd",
+            "id": "263fbd0ca35a1041",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/辨析/辨析输入.md",
+                "file": "蛋白质的基本组成单位——氨基酸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "辨析输入"
+              "title": "蛋白质的基本组成单位——氨基酸"
             }
           },
           {
-            "id": "3e58b89109f77072",
+            "id": "1b1d70064d28d6cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "探索光合作用原理的部分实验（希尔，鲁宾，卡门，阿尔农）.md",
+                "file": "动物激素表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "探索光合作用原理的部分实验（希尔，鲁宾，卡门，阿尔农）"
+              "title": "动物激素表"
             }
           },
           {
-            "id": "8b14e5d49faac118",
+            "id": "d63c3e6428bc82c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "探究·实践/绿叶中色素的提取和分离.md",
+                "file": "RNA的种类与功能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绿叶中色素的提取和分离"
-            }
-          },
-          {
-            "id": "86f8a1d59bb5c474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/选择性必修2 · 生物与环境/第2章 群落及其演替/第2章 群落及其演替.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第2章 群落及其演替"
+              "title": "RNA的种类与功能"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "77270a712ad38091",
+    "id": "e33f088420304af9",
     "type": "split",
     "children": [
       {
-        "id": "30a6e29d53722f0f",
+        "id": "3f68af66c639b744",
         "type": "tabs",
         "children": [
           {
-            "id": "37bbf01af2955ed1",
+            "id": "891ea0413e112017",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -159,12 +134,12 @@
             }
           },
           {
-            "id": "e541068661591556",
+            "id": "63670aca9c837b1f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "用高倍显微镜观察叶绿体和细胞质的流动",
+                "query": "tag:#免疫防御、免疫自稳和免疫监视三大基本功能",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,11 +151,14 @@
             }
           },
           {
-            "id": "018edb63089e26e8",
+            "id": "08ef186cd21fc6b3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -190,23 +168,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 300
   },
   "right": {
-    "id": "5a932719a9aeff79",
+    "id": "6c177ab88c84d897",
     "type": "split",
     "children": [
       {
-        "id": "346ed4df099df07c",
+        "id": "6fb9c390219b7927",
         "type": "tabs",
         "children": [
           {
-            "id": "12f65df97c006852",
+            "id": "3e64689ac826c628",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人教版高中生物学 全5册合编.pdf",
+                "file": "细胞骨架的三大成分（微管、微丝和中间纤维）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,11 +198,12 @@
             }
           },
           {
-            "id": "547ecdc45c59ef0f",
+            "id": "6ba7db49b93310ba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "细胞骨架的三大成分（微管、微丝和中间纤维）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -233,7 +212,7 @@
             }
           },
           {
-            "id": "3b83935d6814f7d7",
+            "id": "5d1446a2e9a3364a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -248,7 +227,7 @@
             }
           },
           {
-            "id": "16d0ee6f03382187",
+            "id": "7694122afe57e0e2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -262,25 +241,26 @@
             }
           },
           {
-            "id": "d340c4da2d98de0e",
+            "id": "a0b39acec350e969",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/必修第二册 · 遗传与进化/第1章 遗传因子的发现/第1章 遗传因子的发现.md",
+                "file": "细胞骨架的三大成分（微管、微丝和中间纤维）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第1章 遗传因子的发现 的大纲"
+              "title": "大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.1666259765625
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,80 +274,19 @@
     }
   },
   "floating": {
-    "id": "1539d542c332af6c",
+    "id": "8a8ab23cbf73feff",
     "type": "floating",
     "children": [
       {
-        "id": "21558a3c85c0795b",
+        "id": "568923f4620483d3",
         "type": "window",
         "children": [
           {
-            "id": "a3ce64b4ed37d517",
+            "id": "719b393203747b96",
             "type": "tabs",
             "children": [
               {
-                "id": "0ca31150af4249d3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "笔记/辨析/辨析输入.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "辨析输入"
-                }
-              },
-              {
-                "id": "f466f3d5c348df17",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "探究·实践/菊花的组织培养（植物组织培养实验）.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "菊花的组织培养（植物组织培养实验）"
-                }
-              },
-              {
-                "id": "9ba79f36cbb0b36a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "细胞大小与物质交换效率.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "细胞大小与物质交换效率"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2948,
-        "y": 0,
-        "width": 466,
-        "height": 912,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "1df507f3a3ddff3e",
-        "type": "window",
-        "children": [
-          {
-            "id": "27a5fc5f926c94af",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ca7fd230758b5bbe",
+                "id": "cdd71bcd32513b37",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -382,48 +301,47 @@
           }
         ],
         "direction": "vertical",
-        "x": 914,
+        "x": 0,
         "y": 0,
-        "width": 830,
+        "width": 960,
         "height": 912,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ca7fd230758b5bbe",
+  "active": "63670aca9c837b1f",
   "lastOpenFiles": [
-    "探究·实践/用高倍显微镜观察叶绿体和细胞质的流动（胞质环流）.md",
-    "笔记/必修第一册 · 分子与细胞/第3章 细胞的基本结构/第3章 细胞的基本结构.md",
+    "笔记/选择性必修1 · 稳态与调节/第1章 人体的内环境与稳态/第1章 人体的内环境与稳态.md",
     "笔记/辨析/辨析输入.md",
-    "探究·实践/观察根尖分生区组织细胞的有丝分裂.md",
-    "人教版高中生物学 全5册合编.pdf",
     "笔记/必修第一册 · 分子与细胞/第6章 细胞的生命历程/第6章 细胞的生命历程.md",
-    "笔记/必修第二册 · 遗传与进化/第5章 基因突变及其他变异/第5章 基因突变及其他变异.md",
-    "探究·实践/低温诱导植物细胞染色体数目的变化.md",
+    "凋亡小体.md",
+    "细胞大小与物质交换效率.md",
     "笔记/必修第一册 · 分子与细胞/第5章 细胞的能量供应和利用/第5章 细胞的能量供应和利用.md",
+    "笔记/选择性必修2 · 生物与环境/第3章 生态系统及其稳定性/第3章 生态系统及其稳定性.md",
+    "笔记/必修第一册 · 分子与细胞/第3章 细胞的基本结构/第3章 细胞的基本结构.md",
+    "核仁.md",
+    "探究·实践/低温诱导植物细胞染色体数目的变化.md",
+    "蛋白质的基本组成单位——氨基酸.md",
+    "动物激素表.md",
+    "RNA的种类与功能.md",
+    "人教版高中生物学 全5册合编.pdf",
+    "高中生物物质组成元素全汇总.md",
+    "免疫活性物质（溶菌酶，细胞因子，抗体）.md",
+    "磷脂.md",
+    "血红蛋白.md",
+    "笔记/选择性必修1 · 稳态与调节/第2章 神经调节/第2章 神经调节.md",
     "笔记/必修第一册 · 分子与细胞/第4章 细胞的物质输入和输出/第4章 细胞的物质输入和输出.md",
+    "如何分辨缩手反射与膝跳反射？.md",
+    "交感神经与副交感神经.md",
+    "笔记/选择性必修1 · 稳态与调节/第4章 免疫调节/第4章 免疫调节.md",
     "笔记/选择性必修1 · 稳态与调节/第3章 体液调节/第3章 体液调节.md",
     "信息分子.md",
-    "笔记/选择性必修1 · 稳态与调节/第4章 免疫调节/第4章 免疫调节.md",
-    "淀粉—平衡石假说.md",
-    "笔记/必修第二册 · 遗传与进化/第2章 基因和染色体的关系/第2章 基因和染色体的关系.md",
-    "笔记/必修第二册 · 遗传与进化/第1章 遗传因子的发现/第1章 遗传因子的发现.md",
-    "探究·实践/菊花的组织培养（植物组织培养实验）.md",
-    "性染色体.md",
-    "笔记/必修第二册 · 遗传与进化/第3章 基因的本质/第3章 基因的本质.md",
-    "密度制约因素与非密度制约因素的辨析.md",
-    "进行有丝分裂动植物细胞的细胞周期主要区别.md",
-    "有丝分裂过程中，各时期核DNA数、染色体数、染色单体数以及每条染色体上的DNA含量的变化.md",
-    "蝗虫的减数分裂以及染色体数目具有特殊性.md",
-    "细胞骨架的三大成分（微管、微丝和中间纤维）.md",
-    "蛋白质的基本组成单位——氨基酸.md",
-    "出芽生殖.md",
-    "如何区别有性和无性生殖？.md",
-    "探究 · 实践",
-    "Pasted image 20260703154238.jpg",
-    "Pasted image 20260620171502.png",
-    "Pasted image 20260620170253.png",
-    "Pasted image 20260620164111.png"
+    "463e551c65f5625e9a69bf5c89621dd3.png",
+    "细胞外钠钾离子浓度改变对于静息电位和动作电位的影响总结.md",
+    "如何判断传入神经与传出神经？.md",
+    "未命名",
+    "Pasted image 20260929113343.png",
+    "Pasted image 20260929110017.png"
   ]
 }
